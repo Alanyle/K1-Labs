@@ -1,0 +1,19 @@
+D:\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\PRG\9 tictactoe\bin\Debug\WindowsFormsApplication2.exe.config
+E:\PRG\9 tictactoe\bin\Debug\WindowsFormsApplication2.exe
+E:\PRG\9 tictactoe\bin\Debug\WindowsFormsApplication2.pdb
+E:\PRG\9 tictactoe\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\PRG\9 tictactoe\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\PRG\9 tictactoe\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\PRG\9 tictactoe\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\PRG\9 tictactoe\obj\Debug\WindowsFormsApplication2.exe
+E:\PRG\9 tictactoe\obj\Debug\WindowsFormsApplication2.pdb
+E:\PRG\10 tictactoe\bin\Debug\WindowsFormsApplication2.exe.config
+E:\PRG\10 tictactoe\obj\Debug\WindowsFormsApplication2.exe
+E:\PRG\10 tictactoe\obj\Debug\WindowsFormsApplication2.pdb
+E:\PRG\10 tictactoe\bin\Debug\WindowsFormsApplication2.exe
+E:\PRG\10 tictactoe\bin\Debug\WindowsFormsApplication2.pdb
+E:\PRG\10 tictactoe\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\PRG\10 tictactoe\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\PRG\10 tictactoe\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\PRG\10 tictactoe\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

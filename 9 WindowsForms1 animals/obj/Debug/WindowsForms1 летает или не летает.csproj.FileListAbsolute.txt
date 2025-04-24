@@ -1,0 +1,21 @@
+E:\PRG\WindowsForms1 летает или не летает\bin\Debug\WindowsForms1 летает или не летает.exe.config
+E:\PRG\WindowsForms1 летает или не летает\bin\Debug\WindowsForms1 летает или не летает.exe
+E:\PRG\WindowsForms1 летает или не летает\bin\Debug\WindowsForms1 летает или не летает.pdb
+E:\PRG\WindowsForms1 летает или не летает\obj\Debug\WindowsForms1 летает или не летает.csprojResolveAssemblyReference.cache
+E:\PRG\WindowsForms1 летает или не летает\obj\Debug\WindowsForms1_летает_или_не_летает.Form1.resources
+E:\PRG\WindowsForms1 летает или не летает\obj\Debug\WindowsForms1_летает_или_не_летает.Properties.Resources.resources
+E:\PRG\WindowsForms1 летает или не летает\obj\Debug\WindowsForms1 летает или не летает.csproj.GenerateResource.Cache
+E:\PRG\WindowsForms1 летает или не летает\obj\Debug\WindowsForms1 летает или не летает.exe
+E:\PRG\WindowsForms1 летает или не летает\obj\Debug\WindowsForms1 летает или не летает.pdb
+E:\PRG\WindowsForms1 animals\bin\Debug\WindowsForms1 летает или не летает.exe.config
+E:\PRG\WindowsForms1 animals\obj\Debug\WindowsForms1 летает или не летает.exe
+E:\PRG\WindowsForms1 animals\obj\Debug\WindowsForms1 летает или не летает.pdb
+E:\PRG\WindowsForms1 animals\bin\Debug\WindowsForms1 летает или не летает.exe
+E:\PRG\WindowsForms1 animals\bin\Debug\WindowsForms1 летает или не летает.pdb
+E:\PRG\WindowsForms1 animals\obj\Debug\WindowsForms1 летает или не летает.csprojResolveAssemblyReference.cache
+E:\PRG\WindowsForms1 animals\obj\Debug\WindowsForms1 летает или не летает.csproj.GenerateResource.Cache
+E:\PRG\WindowsForms1 animals\obj\Debug\WindowsForms1_animals.Form1.resources
+E:\PRG\WindowsForms1 animals\obj\Debug\WindowsForms1_animals.Properties.Resources.resources
+E:\PRG\9 WindowsForms1 animals\bin\Debug\WindowsForms1 летает или не летает.exe.config
+E:\PRG\9 WindowsForms1 animals\obj\Debug\WindowsForms1 летает или не летает.exe
+E:\PRG\9 WindowsForms1 animals\obj\Debug\WindowsForms1 летает или не летает.pdb
