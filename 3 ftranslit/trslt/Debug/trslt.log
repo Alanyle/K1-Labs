@@ -1,0 +1,14 @@
+﻿Сборка начата Чт 14.12.23 13:19:16.
+     1>Проект "E:\prog\f\trslt\trslt.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt trslt.cpp
+         trslt.cpp
+     1>e:\prog\f\trslt\trslt.cpp(24): error C2440: инициализация: невозможно преобразовать "const char [2]" в "char"
+                 Не существует контекста, в котором такое преобразование возможно
+     1>e:\prog\f\trslt\trslt.cpp(26): error C2664: "int fputc(int,FILE *)": невозможно преобразовать аргумент 1 из "const char [2]" в "int"
+                 Не существует контекста, в котором такое преобразование возможно
+     1>Сборка проекта "E:\prog\f\trslt\trslt.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.38
